@@ -1,6 +1,7 @@
 "# Optativo-clase-2-" 
-Alexander Pintos Ferreira
+"Alexander Pintos Ferreira
 
+Ejercicios 
 Ejercicio 1: Ficha de cliente
 Ejercicio 2: Producto de almacén
 Ejercicio 3: Empleado y su sueldo
